@@ -4,6 +4,8 @@
 
 The Steg USB-UART protocol converter module provides a bridge between a USB host and a 12-pin Pmod™ compatible socket configured as a UART.
 
+![Steg](https://github.com/machdyne/steg/blob/4311d679c970d39b5ee342cecf7dba74230a450b/steg.png)
+
 This repo contains documentation, schematics and pinouts.
 
 Find more information on the [Steg product page](https://machdyne.com/product/steg-usb-uart-pmod/).
